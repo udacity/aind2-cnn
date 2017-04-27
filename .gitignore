@@ -1,5 +1,9 @@
-Concept_3/mnist.model.best.hdf5
-Concept_14/MLP.weights.best.hdf5
-Concept_14/model.weights.best.hdf5
-Concept_15/aug_model.weights.best.hdf5
-Concept_16/inception_features.npz
+.DS_Store
+Concept_3/.ipynb_checkpoints/
+Concept_3/.DS_Store
+Concept_12/.ipynb_checkpoints/
+Concept_12/.DS_Store
+Concept_20/.ipynb_checkpoints/
+Concept_20/.DS_Store
+Concept_21/.ipynb_checkpoints/
+Concept_21/.DS_Store
