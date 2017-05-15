@@ -28,7 +28,8 @@
 	```
 		conda env create -f requirements/aind-dog-windows.yml
 		activate aind-dog
-		set KERAS_BACKEND=tensorflow python -c "from keras import backend"
+		set KERAS_BACKEND=tensorflow 
+		python -c "from keras import backend"
 	```
 	
 3. Enjoy!
