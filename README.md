@@ -9,11 +9,18 @@
 		cd aind2-cnn
 	```
 
-2. Obtain the necessary Python packages, and switch Keras backend to Tensorflow.  
-	
-	For __Mac/OSX__ or __Linux__:
+2. Obtain the necessary Python packages, and switch Keras backend to Tensorflow.  	
+
+	For __Mac/OSX__:
 	```
-		conda env create -f requirements/aind-dog-mac-linux.yml
+		conda env create -f requirements/aind-dog-mac.yml
+		source activate aind-dog
+		KERAS_BACKEND=tensorflow python -c "from keras import backend"
+	```
+
+	For __Linux__:
+	```
+		conda env create -f requirements/aind-dog-linux.yml
 		source activate aind-dog
 		KERAS_BACKEND=tensorflow python -c "from keras import backend"
 	```
