@@ -1,4 +1,4 @@
-name: aind-dog
+name: dog-project
 channels:
 - defaults
 dependencies:

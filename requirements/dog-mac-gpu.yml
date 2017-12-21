@@ -1,4 +1,4 @@
-name: aind-dog
+name: dog-project
 channels:
 - damianavila82
 - defaults
@@ -199,6 +199,6 @@ dependencies:
   - protobuf==3.2.0
   - rope-py3k==0.9.4.post1
   - tables==3.3.0
-  - tensorflow==1.0.0
+  - tensorflow-gpu==1.0.0
   - theano==0.8.2
   - tqdm==4.11.2
