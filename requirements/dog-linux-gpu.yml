@@ -12,6 +12,8 @@ dependencies:
 - wheel=0.29.0=py36_0
 - xz=5.2.2=1
 - zlib=1.2.8=3
+- cudatoolkit=8.0=3
+- cudnn=5.1=0
 - pip:
   - bleach==2.0.0
   - cycler==0.10.0

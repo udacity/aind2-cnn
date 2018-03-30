@@ -9,7 +9,7 @@ git clone https://github.com/udacity/aind2-cnn.git
 cd aind2-cnn
 ```
 
-2. (Optional) __If you plan to install TensorFlow with GPU support on your local machine__, follow [the guide](https://www.tensorflow.org/install/) to install the necessary NVIDIA software on your system.  If you are using an EC2 GPU instance, you can skip this step.
+2. (Optional) __If you do not use Anaconda and plan to install TensorFlow with GPU support on your local machine__, follow [the guide](https://www.tensorflow.org/install/) to install the necessary NVIDIA software on your system.  If you are using an EC2 GPU instance, you can skip this step. If you are using Anaconda to install the dependencies, you can skip this step as CUDA, cuDNN and Tensorflow-gpu are all included as dependencies at Step 3 or 4.
 
 3. (Optional) **If you are running the project on your local machine (and not using AWS)**, create (and activate) a new environment.
 
