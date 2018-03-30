@@ -76,6 +76,8 @@ dependencies:
 - widgetsnbextension=2.0.0=py35_0
 - win_unicode_console=0.5=py35_0
 - zlib=1.2.8=vc14_3
+- cudatoolkit=8.0=3
+- cudnn=5.1=0
 - pip:
   - ipython-genutils==0.1.0
   - jupyter-client==5.0.0
